@@ -1,3 +1,5 @@
-=With Man gone, will there be hope for Gorilla?=
+#+begin_quote
+With Man gone, will there be hope for Gorilla?
+#+end_quote
 
 [[./ga010120.png]]
